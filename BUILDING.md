@@ -1,4 +1,4 @@
-Building TextSecure
+Building Signal
 =====================
 
 Basics
